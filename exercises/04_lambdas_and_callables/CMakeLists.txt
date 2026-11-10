@@ -1,0 +1,1 @@
+cppref_exercise(ex04_lambdas_and_callables)

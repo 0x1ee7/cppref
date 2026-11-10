@@ -1,0 +1,1 @@
+cppref_exercise(ex02_parameter_passing)

@@ -1,0 +1,1 @@
+cppref_exercise(ex06_functional)

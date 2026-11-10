@@ -1,0 +1,1 @@
+cppref_exercise(ex10_error_handling)

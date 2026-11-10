@@ -1,0 +1,1 @@
+cppref_exercise(ex09_raii_and_memory)

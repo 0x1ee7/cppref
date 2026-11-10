@@ -1,0 +1,1 @@
+cppref_exercise(ex03_namespaces_and_linkage)

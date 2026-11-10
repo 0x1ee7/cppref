@@ -1,0 +1,1 @@
+cppref_exercise(ex07_classes_and_value_types)
